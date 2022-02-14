@@ -6,4 +6,12 @@
 - Deliverable 1: Change Trip Duration to a Datetime Format
 + The data in the "tripduration" column is converted to a datetime datatype and has the correct time format.
 ![image](https://user-images.githubusercontent.com/93515126/153816750-7ec54cf3-29a9-49ec-8c60-373608bf5660.png)
-- De
+- Deliverable 2: Create Visualizations for the Trip Analysis
++ Create the Checkout Times for Users Viz: In this visualization, you’ll graph the length of time that bikes are checked out for all riders. Your final results should look similar to the following image:
+![image](https://user-images.githubusercontent.com/93515126/153817051-f8402b07-f5ea-4385-b2b3-3f4fd261c448.png)
++ Create the Checkout Times by Gender Viz: In this visualization, you’ll graph the length of time that bikes are checked out for each gender. Your final results should look similar to the following image:
+![image](https://user-images.githubusercontent.com/93515126/153817157-8284c396-8f28-46d7-a686-4227d7661844.png)
++ Create the Trips by Weekday for Each Hour Viz: In this visualization, you’ll graph the number of bike trips by weekday for each hour of the day as a heatmap. Your final results should look similar to the following image:
+![image](https://user-images.githubusercontent.com/93515126/153817258-06a32490-0530-420c-80b8-bde3a54728db.png)
++ Create the Trips by Gender (Weekday per Hour) Viz: In this visualization, you’ll graph the number of bike trips by gender for each hour of each day of the week as a heatmap.
+![image](https://user-images.githubusercontent.com/93515126/153817445-fe93b14c-1960-40da-a3b2-eaaedf9de9c4.png)
