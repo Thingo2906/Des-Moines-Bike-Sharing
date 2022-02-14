@@ -15,3 +15,13 @@
 ![image](https://user-images.githubusercontent.com/93515126/153817258-06a32490-0530-420c-80b8-bde3a54728db.png)
 + Create the Trips by Gender (Weekday per Hour) Viz: In this visualization, you’ll graph the number of bike trips by gender for each hour of each day of the week as a heatmap.
 ![image](https://user-images.githubusercontent.com/93515126/153817445-fe93b14c-1960-40da-a3b2-eaaedf9de9c4.png)
++ Create the User Trips by Gender by Weekday Viz: In this visualization, you’ll graph the number of bike trips by gender for each hour for each day of the week as a heatmap.
+![image](https://user-images.githubusercontent.com/93515126/153817636-ca0aa494-c628-4e43-a19c-bfb80da31172.png)
+- Deliverable 3: Create a Story and Report for the Final Presentation:
+-![image](https://user-images.githubusercontent.com/93515126/153818146-9aaad9ae-3d71-4d87-9941-ccc4a1150524.png)
+## Summary:
+- CitiBike Analysis tells that more than 80% are Subscribers, with an ~19% or regular non-subscribers, that data creates a new need, such better user experiance interaction in the future:
+![image](https://user-images.githubusercontent.com/93515126/153830573-bff3ef53-5de5-4fd8-8a42-40b36a52a5a1.png)
+- Total of 65% General Male use, 25% General Female with an Unknown gender that relies on non-subscribers users:
+![image](https://user-images.githubusercontent.com/93515126/153830777-479682a2-3172-4c57-903b-e2d62f264046.png)
+## [link to dashboard]https://public.tableau.com/app/profile/suong1991/viz/bikesharing_16442240894140/Finalpresentation?publish=yes
